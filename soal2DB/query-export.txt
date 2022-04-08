@@ -1,0 +1,1 @@
+mysqldump -u root -p daganglas2 < dbexport.sql

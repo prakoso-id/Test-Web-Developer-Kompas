@@ -1,0 +1,4 @@
+-NOSQL adalah database tanpa relasi untuk performa yg lebih cepat dan skala yang lebih besar
+-Memory Chace adalah cara untuk meningkatkan performa dengan cara menaga data yang sudah diakses tetap berada pada sistem memori
+
+-mengimplementasikan memory cache dengan cara menggunakan session, Redis

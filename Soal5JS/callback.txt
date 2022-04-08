@@ -1,0 +1,15 @@
+function yang di passing ke dalam function lain sebagai argument, dan di eksekusi oleh function yang membungkus function callback tersebut
+
+contoh
+
+function main(num) {
+  document.getElementById("demo").innerHTML = num;
+}
+
+function hitung(i, j) {
+  let sum = i + j;
+  return sum;
+}
+
+let result = hitung(5, 5);
+main(result);
